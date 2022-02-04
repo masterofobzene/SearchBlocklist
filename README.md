@@ -1,7 +1,7 @@
 # SearchBlocklist
 
 Its a fork of:
-https://iorate.github.io/ublacklist/subscriptions
+https://iorate.github.io/ublacklist
 
 With the added Searx engine support.
 
