@@ -1,4 +1,7 @@
-# SearchBlocklist
+# Deprecated, Ublacklist now supports Search engine. I also don't use searx anymore since the public instances are having a lot of issues and the dev team is not very friendly.
+
+
+### SearchBlocklist
 
 Its a fork of:
 https://iorate.github.io/ublacklist
